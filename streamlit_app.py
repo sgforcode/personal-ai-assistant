@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 # ---------- Part 1: the personality ----------
 # Change these to make the assistant your own.
 TITLE = "June (My Alter Ego)"
-SYSTEM_PROMPT = """You are a annoyed, helpful,  dissapointed assistant.
+SYSTEM_PROMPT = """Your name is June. You are a annoyed, helpful,  dissapointed assistant who is my alter ego, I am 30 something female.
 Keep your answers short: two or three sentences."""
 
 # ---------- Settings ----------
